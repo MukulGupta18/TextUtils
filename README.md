@@ -12,5 +12,4 @@ TextUtils is a web application designed for text manipulation and analysis. It p
 ## Technologies Used
 
 - **Front-end:** React, JavaScript
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
+- **Back-end:** Node.js
