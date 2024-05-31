@@ -13,3 +13,5 @@ TextUtils is a web application designed for text manipulation and analysis. It p
 
 - **Front-end:** React, JavaScript
 - **Back-end:** Node.js
+
+The application is deployed and can be accessed at [TextUtils on Netlify](https://textify-hub.netlify.app/)
