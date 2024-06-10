@@ -7,6 +7,7 @@ TextUtils is a web application designed for text manipulation and analysis. It p
 - Live word and character count
 - Convert text to uppercase and lowercase
 - Trim whitespace and remove extra spaces
+- Copy text
 - Responsive and user-friendly interface
 
 ## Technologies Used
